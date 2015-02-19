@@ -4,7 +4,7 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 #ignore php-storm files
-.idea/*
+.idea/
 #ignore acquia dev deskop files
 sites/hspdrupal.dd
 sites/sites.php
